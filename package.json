@@ -20,6 +20,7 @@
   "homepage": "https://github.com/laszlo-ratesic/u-develop-it#readme",
   "dependencies": {
     "express": "^4.17.3",
+    "gradient-string": "^2.0.0",
     "mysql2": "^2.3.3"
   },
   "devDependencies": {
